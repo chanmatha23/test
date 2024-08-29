@@ -1,2 +1,3 @@
 test push
 test fetch
+test fetch+merge
